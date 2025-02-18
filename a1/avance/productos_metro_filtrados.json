@@ -1,0 +1,902 @@
+[
+    {
+        "idsku": "45414",
+        "id": "45603",
+        "nombre": "Muñeca bebe Lovely",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45412",
+        "id": "45601",
+        "nombre": "Set de muñecas bebes gemelas",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45409",
+        "id": "45598",
+        "nombre": "Set de muñeca bebe con silla de comer Meriendas Fantasticas",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45406",
+        "id": "45595",
+        "nombre": "Set de muñeca bebe con coche Paseos Divertidos",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45405",
+        "id": "45594",
+        "nombre": "Juguete sensorial tigre",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45388",
+        "id": "45577",
+        "nombre": "Cubo de juguete para bebe 6 en 1",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45386",
+        "id": "45575",
+        "nombre": "Reloj de juguete sensorial",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45385",
+        "id": "45574",
+        "nombre": "Camion musical con bloques",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45175",
+        "id": "45363",
+        "nombre": "Fp audifonos juega conmigo",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45052",
+        "id": "45234",
+        "nombre": "Set de ensaladera 7 piezas",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45049",
+        "id": "45231",
+        "nombre": "Set de copas 6 pzas napa vino tinto 580ml",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45036",
+        "id": "45213",
+        "nombre": "Tetéra de porcelana.",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45033",
+        "id": "45210",
+        "nombre": "Canasta metal-madera",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45032",
+        "id": "45209",
+        "nombre": "Juego de accesorio para bar 3 piezas",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45019",
+        "id": "45195",
+        "nombre": "Juego portavasos 7 piezas",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45009",
+        "id": "45184",
+        "nombre": "Set de vasos 4pzas",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45008",
+        "id": "45183",
+        "nombre": "Set de copas 4pzas timeless 175ml",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45007",
+        "id": "45182",
+        "nombre": "Soporte para utensilios Yumi",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45006",
+        "id": "45181",
+        "nombre": "Papel de alumnio antiadherente 45et.",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45005",
+        "id": "45180",
+        "nombre": "Bandeja para hornear",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45003",
+        "id": "45178",
+        "nombre": "Camino de mesa zitronella 140 cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45002",
+        "id": "45177",
+        "nombre": "Set de tazas para café, 2 piezas",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "45001",
+        "id": "45176",
+        "nombre": "Cafetera espresso de borosilicato",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44969",
+        "id": "45144",
+        "nombre": "Bicicleta serengueti r20 6v",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44964",
+        "id": "45138",
+        "nombre": "Organizadord de alimentos 30x22cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44963",
+        "id": "45137",
+        "nombre": "Organizador de alimentos 30x22cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44960",
+        "id": "45134",
+        "nombre": "Organizador redondo 23cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44959",
+        "id": "45133",
+        "nombre": "Organizador apilable 31.5x17.5cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44956",
+        "id": "45129",
+        "nombre": "Organizador d/cubiertos 6 div. 39.7x31.9cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44955",
+        "id": "45127",
+        "nombre": "Organizador de nevera 3 div. 28x18cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44954",
+        "id": "45126",
+        "nombre": "Organizador c/agarrador 36.5x31.5cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44953",
+        "id": "45125",
+        "nombre": "Organizador c/agarrador 36.5x21cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44949",
+        "id": "45121",
+        "nombre": "Tijera para hierbas 5 cuchillas",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44947",
+        "id": "45119",
+        "nombre": "Cuchillo-tijera con mini tabla de cortar",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44945",
+        "id": "45093",
+        "nombre": "Estante organizador magnetico",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44944",
+        "id": "45092",
+        "nombre": "Set de 3 recipientes para envasado al vacio",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44935",
+        "id": "45082",
+        "nombre": "Set de vajilla 16 pzas praga",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44934",
+        "id": "45081",
+        "nombre": "Set de vajilla 16 pzas porcelana ivory",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44933",
+        "id": "45080",
+        "nombre": "Centrifugador de vegetales",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44927",
+        "id": "45073",
+        "nombre": "Set de vajilla 16pzas nordic blanca",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44924",
+        "id": "45070",
+        "nombre": "Set de vajilla 16pzas flores",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44923",
+        "id": "45069",
+        "nombre": "Set de vajilla 20pzas alana",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44921",
+        "id": "45067",
+        "nombre": "Soporte para toallas de papel 29cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44920",
+        "id": "45066",
+        "nombre": "Bowl de acero inoxidable 22cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44918",
+        "id": "45064",
+        "nombre": "Cuchara de acero inox para mix de cocteles",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44917",
+        "id": "45063",
+        "nombre": "Bombonera de vidrio 3 pzas",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44915",
+        "id": "45061",
+        "nombre": "Jaula para telefonos",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44914",
+        "id": "45060",
+        "nombre": "Set 12 pzas vasos de 250ml y 360 ml",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44913",
+        "id": "45059",
+        "nombre": "Bombonera de vidrio",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44910",
+        "id": "45056",
+        "nombre": "Ziplock 3l 10pzas",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44907",
+        "id": "45053",
+        "nombre": "Ziplock de 1.2l y 2.5l set 40pzas",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44905",
+        "id": "45051",
+        "nombre": "Olla para esparragos 16x21cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44903",
+        "id": "45049",
+        "nombre": "Mug inoxidable moscu mul 500ml",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44902",
+        "id": "45047",
+        "nombre": "Foco LED T140 base E27 50w 6500k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44900",
+        "id": "45045",
+        "nombre": "Set focos x2 LED GU10 5w 6500k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44899",
+        "id": "45044",
+        "nombre": "Set focos x2 GU10 4.5w 3000k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44898",
+        "id": "45043",
+        "nombre": "Foco LED G45 6w E27 3000k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44897",
+        "id": "45042",
+        "nombre": "Foco LED G45 6w E27 6500k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44894",
+        "id": "45038",
+        "nombre": "Set focos x4 LED A19 6w 3000k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44893",
+        "id": "45037",
+        "nombre": "Spot cuadrado empotrable LED 18w 6500k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44892",
+        "id": "45036",
+        "nombre": "Spot de techo cuadrado LED dirigible 5w 400lm 6500k negro mate",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44891",
+        "id": "45035",
+        "nombre": "Spot de techo cuadrado dirigible LED 5w 3000k acabado negro mate",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44890",
+        "id": "45034",
+        "nombre": "Spot de techo cuadrado LED dirigible 5w 400lm 6500k blanco",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44889",
+        "id": "45033",
+        "nombre": "Spot de techo cuadrado LED dirigible 5w 3000k blanco",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44888",
+        "id": "45032",
+        "nombre": "Spot LED sobreponer LED con sensor de movimiento 18w cct 30k,40k, 65k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44887",
+        "id": "45031",
+        "nombre": "Spot LED sobreponer LED 6w 6500k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44886",
+        "id": "45030",
+        "nombre": "Spot LED sobreponer LED 18w 6500k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44885",
+        "id": "45029",
+        "nombre": "Spot LED sobreponer LED 12w 6500k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44884",
+        "id": "45028",
+        "nombre": "Spot LED empotrable LED 6w 6500k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44883",
+        "id": "45027",
+        "nombre": "Spot LED empotrable LED 18w 6500k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44882",
+        "id": "45026",
+        "nombre": "Spot LED empotrable 6w 3000k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44881",
+        "id": "45025",
+        "nombre": "Spot LED empotrable LED 12w 6500k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44880",
+        "id": "45024",
+        "nombre": "Spot LED empotrable LED 12w 3000k",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44879",
+        "id": "45023",
+        "nombre": "Spot de techo LED dirigible 5w 6500k Blanco",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44878",
+        "id": "45022",
+        "nombre": "Spot de techo LED dirigible 5w 3000k Blanco",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44877",
+        "id": "45020",
+        "nombre": "Spot de techo LED dirigible 5w 3000k Negro",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44855",
+        "id": "44998",
+        "nombre": "Freidora de Aire 4.5 litros Whiteline",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44849",
+        "id": "44992",
+        "nombre": "Termo QUENCHER Flowstate H2.0 890ml Plum Stanley",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44848",
+        "id": "44991",
+        "nombre": "Termo QUENCHER Flowstate H2.0 890ml Ash Stanley",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44838",
+        "id": "44984",
+        "nombre": "Tumbler FLIPSTRAW 890ml Negro Stanley",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44837",
+        "id": "44983",
+        "nombre": "Tumbler FLIPSTRAW 890ml Plum Stanley",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44832",
+        "id": "44975",
+        "nombre": "Vaso GO Everyday 295ml Verde Stanley",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44814",
+        "id": "44957",
+        "nombre": "Silla con brazos madeira",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44812",
+        "id": "44955",
+        "nombre": "Mesa cuadrada madeira",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44811",
+        "id": "44954",
+        "nombre": "Mesa cuadrada infinity wengue",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44808",
+        "id": "44951",
+        "nombre": "Silla con brazos infinity mocca",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44799",
+        "id": "44943",
+        "nombre": "Silla de Comedor ARYA Blanco Lino",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44772",
+        "id": "44915",
+        "nombre": "Colgador doble negro mate de plastico 2",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44768",
+        "id": "44911",
+        "nombre": "Set De Herramientas 3 Pzas",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44766",
+        "id": "44909",
+        "nombre": "Ge-Cm 18/33 Li, Corta Cesped Inalambrico",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44760",
+        "id": "44903",
+        "nombre": "Tc-Js 18Li (1 X2,5Ah) Sierra Caladora Inalambrica",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44757",
+        "id": "44900",
+        "nombre": "Basurero con Sensor BRAVIA 20 litros Eko",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44736",
+        "id": "44879",
+        "nombre": "Colgador negro mate de plastico 1,8 kg",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44735",
+        "id": "44878",
+        "nombre": "Tope de puerta cromo mate de metal 4,6",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44734",
+        "id": "44876",
+        "nombre": "Gancho adhesivo arco cromo mate",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44733",
+        "id": "44875",
+        "nombre": "Colgador dos ganchos 60x23 mm cafe",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44726",
+        "id": "44868",
+        "nombre": "Colgador dos ganchos 60x23 mm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44725",
+        "id": "44867",
+        "nombre": "Tope de puerta adhesivo 47x45 mm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44724",
+        "id": "44866",
+        "nombre": "Mueble de lavandería 2 puertas color Blanco",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44723",
+        "id": "44865",
+        "nombre": "Gabinete 1 cajón y 2 puertas color Blanco",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44722",
+        "id": "44864",
+        "nombre": "COLGADOR RAMA DOBLE 60X65 MM BLANCO",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44721",
+        "id": "44863",
+        "nombre": "Aparador 2 puertas color Tabaco",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44719",
+        "id": "44861",
+        "nombre": "Burlete 4-1000 pvc roble",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44718",
+        "id": "44860",
+        "nombre": "Numero 0-4\" acero inoxidable 18/8",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44717",
+        "id": "44859",
+        "nombre": "Burlete 5-1000 aluminio negro",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44711",
+        "id": "44853",
+        "nombre": "Armario multiuso 2 puertas color Blanco",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44710",
+        "id": "44852",
+        "nombre": "Maceta redonda d17\" h13\"",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44709",
+        "id": "44851",
+        "nombre": "Maceta redonda d15\" h12\"",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44707",
+        "id": "44849",
+        "nombre": "Maceta redonda d14\" h12\"",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44682",
+        "id": "44825",
+        "nombre": "Cesto Tejido color Beige Claro 31x31cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44680",
+        "id": "44823",
+        "nombre": "Caja Organizadora con Tapa PIA pequeño de 3.5 litros color Taupé",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44678",
+        "id": "44820",
+        "nombre": "Colchón CLASSIC 200x200x26cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44677",
+        "id": "44819",
+        "nombre": "Colchón CLASSIC 180x200x26cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44676",
+        "id": "44818",
+        "nombre": "Colchón CLASSIC 105x190x26cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44675",
+        "id": "44817",
+        "nombre": "Colchón CLASSIC 160x190x26cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44674",
+        "id": "44816",
+        "nombre": "Colchón CLASSIC 140x190x26cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44665",
+        "id": "44807",
+        "nombre": "Edredón Blend Sense POP UP 2 plazas color Crema",
+        "unidad_de_medida": "Metro Cuadrado"
+    },
+    {
+        "idsku": "44655",
+        "id": "44797",
+        "nombre": "Termoventilador MGF1290 LIRON 2000w Magefesa",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44654",
+        "id": "44796",
+        "nombre": "Edredon blend comfort sherpa 1 1/2 plz gris mistico",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44627",
+        "id": "44769",
+        "nombre": "Parrilla a Gas 3 quemadores color Negro",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44608",
+        "id": "44750",
+        "nombre": "Colchón ELEGANT Super Pocket 160x190x28cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44607",
+        "id": "44749",
+        "nombre": "Colchón ELEGANT Super Pocket 200x200x28cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44606",
+        "id": "44748",
+        "nombre": "Colchón ELEGANT Super Pocket 180x200x28cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44605",
+        "id": "44747",
+        "nombre": "Colchón ELEGANT Super Pocket 140x190x28cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44563",
+        "id": "44707",
+        "nombre": "Lámpara de Mesa de cerámica E27 color Blanco/Plateado",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44523",
+        "id": "44666",
+        "nombre": "Refrigerador Inverter Frost de 590 litros 3 puertas color Inox Electrolux",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44522",
+        "id": "44665",
+        "nombre": "Refrigerador Inverter Inox 488 litros Frio/Seco Electrolux",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44519",
+        "id": "44662",
+        "nombre": "Torre de Sonido LG Xboom RNC7",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44515",
+        "id": "44658",
+        "nombre": "Refrigerador LG Frio Seco Inverter, 312 Litros con Dispensador",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44513",
+        "id": "44656",
+        "nombre": "Lavadora carga superior LG Inverter 17Kg color Gris",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44512",
+        "id": "44655",
+        "nombre": "Televisor plano LG 70'' UR8750 UHD AI Thinq, 4K Smart",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44488",
+        "id": "44631",
+        "nombre": "Edredón Blend Sense Colors 2 plazas Blanco con líneas Café",
+        "unidad_de_medida": "Metro Cuadrado"
+    },
+    {
+        "idsku": "44481",
+        "id": "44624",
+        "nombre": "Maceta florenca sisal 17x19 blanco solido",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44480",
+        "id": "44623",
+        "nombre": "Maceta florenca sisal 27x24 cemento",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44479",
+        "id": "44622",
+        "nombre": "Maceta florenca sisal 17x19 gris stone effect",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44477",
+        "id": "44620",
+        "nombre": "Maceta amsterda grafiato 27x28 beige stone effect",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44476",
+        "id": "44619",
+        "nombre": "Maceta amsterda grafiato 35x65 beige stone effect",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44475",
+        "id": "44617",
+        "nombre": "Maceta amsterda grafiato 27x28 grafito stone effect",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44471",
+        "id": "44614",
+        "nombre": "Funda de Almohada lux 200h color beige  50x70cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44470",
+        "id": "44613",
+        "nombre": "Funda de Almohada 50x90cm lux 200h color Blanco",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44469",
+        "id": "44612",
+        "nombre": "Jgo de sabanas lux 200h king gris",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44468",
+        "id": "44610",
+        "nombre": "Juego de Sábanas 2 plazas sublime 300h color Azul",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44466",
+        "id": "44608",
+        "nombre": "Set de Vasos ORIGAMI 330ml 6 piezas",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44463",
+        "id": "44605",
+        "nombre": "Espejo de mano 1x purpura mini teardrop",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44455",
+        "id": "44597",
+        "nombre": "Refrigerador No Frost French Door Inverter 590L Negro Con Ia",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44451",
+        "id": "44593",
+        "nombre": "Alfombra play nudo beige 120x170cm",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44432",
+        "id": "44574",
+        "nombre": "MH7032JAS MICROONDAS LG 30L",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44093",
+        "id": "44235",
+        "nombre": "Faldón CAIOBA QUEEN color Negro",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44092",
+        "id": "44234",
+        "nombre": "Faldón CAIOBA 2 plazas color Beige",
+        "unidad_de_medida": "Metro Cubico"
+    },
+    {
+        "idsku": "44084",
+        "id": "44225",
+        "nombre": "Set de te 12pzas unni bordado",
+        "unidad_de_medida": "Metro Cubico"
+    }
+]
